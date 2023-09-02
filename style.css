@@ -3,7 +3,14 @@ body {
     background-color: #302c2c;
 }
 
-header {
+.header-list {
     background-color: #302c2c;
     color: #9b9494;
+    display: inline-flex;
+    list-style: none;
+
+}
+
+.header-ls {
+    padding: 10px;
 }
